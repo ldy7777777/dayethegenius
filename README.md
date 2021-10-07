@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @dayethegenius
-- 👀 I’m interested in fintech and music industry.
-- 🌱 I’m currently learning Python, R, and SQL.
+
